@@ -10,6 +10,7 @@
 
   <PropertyGroup>
     <UserSecretsId>aspnet-netCoreLocalization-e8ecae4e-86f7-404c-b15b-5ea653f2ce44</UserSecretsId>
+    <AssemblyName>netCoreLocalizationBroken</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
    <PackageReference Include="AspNet.Security.OAuth.LinkedIn" Version="1.0.0-beta3-final" />
