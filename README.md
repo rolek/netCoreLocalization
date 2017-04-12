@@ -1,0 +1,2 @@
+# netCoreLocalization
+Sample Localization Project
